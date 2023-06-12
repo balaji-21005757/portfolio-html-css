@@ -1,0 +1,33 @@
+body{
+    background-image: url(/Images/skills.jpg);
+    width: 100%;
+    height: 100vh;
+}
+.first {
+    margin-left: 40%;
+    margin-top: 8%;
+    color: rgb(9, 164, 66);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+.second{
+    margin-left: 7%;
+    margin-top: 8%;
+    color: antiquewhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.second h2{
+    color: #d4de16;
+}
+.second h1 span{
+    color: #10f2c5;
+}
+.third {
+    margin-left: 60%;
+    margin-top: 8%;
+    color: aqua;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.third span{
+    color: #e60b29;
+}

@@ -1,0 +1,30 @@
+body{
+    background-image: url(/Images/qualify.jpg);
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.telling{
+    color: rgb(255, 250, 250);
+    margin-top: 7%;
+    margin-left: 8%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.telling h1 span{
+    color: rgb(21, 206, 178);
+}
+.telling h2 span{
+    color:rgb(221, 255, 0);
+}
+body img{
+    width: 50%;
+    height: 60vh;
+    margin-left: 1%;
+}
+.second {
+    width: 50%;
+    margin-left: 60%;
+    height: 60vh;
+}
