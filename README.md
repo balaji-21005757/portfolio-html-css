@@ -1,6 +1,9 @@
 # portfolio-html-css
 # Aim
 To create a portfolio using html and css
+# Algorithm
+1. Create a html and css files
+2. Create your own style portfolio or css
 # Program 
 # index.html
 ```
