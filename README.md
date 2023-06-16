@@ -2,8 +2,11 @@
 # Aim
 To create a portfolio using html and css
 # Algorithm
-1. Create a html and css files
-2. Create your own style portfolio or css
+1. Open visual studio code
+2. Create a html and css file
+3. Link the css file to html using <link> tag
+4. Store the images for your portfolio in a directory and then using <img> tag display those images
+5. Style your website using css style elements
 # Program 
 # index.html
 ```
